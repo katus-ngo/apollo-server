@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true, // Allow decorator
+    "experimentalDecorators": true, // Allow decorator
+    "module": "commonjs",
+    "target": "es2018",
+    "lib": ["es2018", "esnext.asynciterable"],
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
